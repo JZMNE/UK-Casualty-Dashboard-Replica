@@ -14,7 +14,10 @@ The UK Casualty Dashboard includes the following features:
 The UK casualty data used in this project is sourced from the [UK government website](https://maps.dft.gov.uk/road-casualties/index.html). The data is updated on a regular basis, and the dashboard will automatically retrieve the latest data when it is available.
 
 ## UK Original Dashboard
-![Screenshot of the UK Casualty Dashboard](uk1.png)
+![Screenshot of the UK Casualty Dashboard](https://github.com/JZMNE/UK-Casualty-Dashboard-Replica/blob/main/img/uk1.png)
+
+## Relicated Dashboard
+![Screenshot of the Replicatedd UK Casualty Dashboard](https://github.com/JZMNE/UK-Casualty-Dashboard-Replica/blob/main/img/img2.png)
 
 ## License
 This project is licensed under the MIT License. You are free to use and modify the code as you see fit, but please be sure to give credit to the original source if you share your work.
