@@ -18,7 +18,7 @@ The UK casualty data used in this project is sourced from the [UK government web
 
 ## Relicated Dashboard
 ![Screenshot of the Replicatedd UK Casualty Dashboard](https://github.com/JZMNE/UK-Casualty-Dashboard-Replica/blob/main/img/img2.png)
-> Download the `UK.pbix` file to view and see interaction on Power BI. Also you can click on the `img` folder for slide images.
+> Download the `UK.pbix` file to view and see interaction on Power BI.
 
 ## License
 This project is licensed under the MIT License. You are free to use and modify the code as you see fit, but please be sure to give credit to the original source if you share your work.
